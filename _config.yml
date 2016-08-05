@@ -1,0 +1,14 @@
+layout_spectrum: 0.16691398713737726
+typography_spectrum: 0.32099319668486714
+color:
+  brandStrength: 0.3854016587138176
+  lightness: 0.6922770729288459
+  saturation: 0.8423234825022519
+  rhythmicContrast: 0.14205777435563505
+  brandColors:
+    - '#FFFFFF'
+    - '#181818'
+    - '#A7A7A7'
+    - '#3F4044'
+    - '#7A7879'
+name: neurocoaching
